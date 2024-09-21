@@ -1,0 +1,8 @@
+{
+  "environment": "dev",
+  "databases":
+  {
+    "default": "mysql://root:root@172.17.0.2/poncho-pay"
+  },
+  "version": "0.0.1"
+}
